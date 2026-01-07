@@ -1,0 +1,13 @@
+patient_id,seizure_time,seizure_type,severity,duration_seconds
+patient_002,2024-01-05 20:44:18.756291,tonic-clonic,moderate,262
+patient_002,2024-01-08 03:16:11.820985,tonic-clonic,severe,38
+patient_002,2024-01-10 22:20:03.962442,absence,mild,184
+patient_002,2024-01-10 22:49:59.411054,absence,mild,115
+patient_002,2024-01-14 12:04:21.718245,tonic-clonic,moderate,80
+patient_002,2024-01-14 21:08:55.838591,tonic-clonic,moderate,234
+patient_002,2024-01-17 14:06:44.951114,tonic-clonic,mild,250
+patient_002,2024-01-27 06:53:32.499798,tonic-clonic,mild,60
+patient_002,2024-01-29 03:30:35.033499,myoclonic,mild,114
+patient_002,2024-01-29 21:17:01.771844,focal,mild,214
+patient_002,2024-01-30 07:03:55.692779,focal,severe,229
+patient_002,2024-01-31 18:18:11.053311,absence,severe,160
